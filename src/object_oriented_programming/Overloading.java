@@ -22,7 +22,6 @@ class over_loading_area{
 }
 
 
-
 public class Overloading {
 
 	public static void main(String[] args) {
